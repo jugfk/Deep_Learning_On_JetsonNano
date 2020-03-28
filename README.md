@@ -3,5 +3,5 @@
 
 * 다운로드하기
 ```
-git clone https://github.com/jetsonworld/OpenCV_On_JetsonNano.git
+git clone https://github.com/jetsonworld/Deep_Learning_On_JetsonNano.git
 ```
