@@ -19,6 +19,8 @@ sudo pip3 install lightgbm
 ```
 
 (3) 젯슨 나노에서 xgboost, catboost 설치해보았으나 실패중
+ 
+ (설치하신분 있으시면 이매일 부탁드립니다. achasma@gmail.com)
 
 
 * 실행하기
