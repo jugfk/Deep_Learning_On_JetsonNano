@@ -7,6 +7,13 @@ git clone https://github.com/jetsonworld/Deep_Learning_On_JetsonNano.git
 ```
 
 * 설치하기
+
+(1) Scikit-Learn 그래디언트 부스팅 
+```
+sudo pip3 install scikit-learn
+```
+ 
+(2) LightGBM 그래디언트 부스팅
 ```
 sudo pip3 install lightgbm
 ```
