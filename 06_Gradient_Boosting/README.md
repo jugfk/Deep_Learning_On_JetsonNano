@@ -31,6 +31,8 @@ python3 01_Classification_Dataset.py
  ...
  ...
 python3 08_LightGBM_for_Regression.py
+MAE: -12.739 (1.408)
+Prediction: -82.040
 ```
 
 ![LightGBM.png](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/06_Gradient_Boosting/LightGBM.png)
