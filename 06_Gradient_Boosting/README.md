@@ -13,5 +13,5 @@ sudo pip3 install lightgbm
 
 * 실행하기
 ```
-python3 yourFile.py
+python3 00_Check_Versions.py
 ```
