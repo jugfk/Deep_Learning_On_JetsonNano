@@ -39,4 +39,4 @@ python3 main.py
 
 * 출력이미지
 
-![main.png](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/09_Deep_Learning_in_OpenCV/main.png)
+![main.png](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/09_Deep_Learning_in_OpenCV/main.png)
