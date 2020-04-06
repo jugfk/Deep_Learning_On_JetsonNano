@@ -35,7 +35,7 @@ python3 main.py
 ```
 * 입력이미지
 
-![image.jpeg](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/09_Deep_Learning_in_OpenCV/images/image.jpeg)
+![image.jpeg](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/09_Deep_Learning_in_OpenCV/image.jpeg)
 
 * 출력이미지
 
