@@ -13,11 +13,11 @@ g++ -ggdb basicFaceDetector.cpp -o basicFaceDetector `pkg-config --cflags --libs
 ```
 * 입력이미지
 
-![image.jpeg](https://raw.githubusercontent.com/jetsonworld/OpenCV_On_JetsonNano/master/11_Deep_Learning_in_OpenCV/images/image.jpeg)
+![image.jpeg](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/09_Deep_Learning_in_OpenCV/image.jpeg)
 
 * 출력이미지
 
-![basicFaceDetector.png](https://raw.githubusercontent.com/jetsonworld/OpenCV_On_JetsonNano/master/11_Deep_Learning_in_OpenCV/basicFaceDetector.png)
+![basicFaceDetector.png](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/09_Deep_Learning_in_OpenCV/basicFaceDetector.png)
 
 ***
 # OpenCV에서 딥러닝(dnn)  
