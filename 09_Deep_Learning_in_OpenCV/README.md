@@ -24,19 +24,19 @@ g++ -ggdb basicFaceDetector.cpp -o basicFaceDetector `pkg-config --cflags --libs
 ***
 * frozen_inference_graph.pb 다운로드하기
 ```
-cd OpenCV_On_JetsonNano/11_Deep_Learning_in_OpenCV
-python3 download_gdrive.py 1uP9N5E2Jjm6-RrVwHLdBc00qQZeYH7Uj /home/ubuntu/OpenCV_On_JetsonNano/11_Deep_Learning_in_OpenCV/models/frozen_inference_graph.pb
+cd Deep_Learning_On_JetsonNano/09_Deep_Learning_in_OpenCV
+python3 download_gdrive.py 1uP9N5E2Jjm6-RrVwHLdBc00qQZeYH7Uj /home/ubuntu/Deep_Learning_On_JetsonNano/09_Deep_Learning_in_OpenCV/models/frozen_inference_graph.pb
 ```
 
-* [main.py](https://raw.githubusercontent.com/jetsonworld/OpenCV_On_JetsonNano/master/11_Deep_Learning_in_OpenCV/main.py) 실행하기
+* [main.py](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/09_Deep_Learning_in_OpenCV/main.py) 실행하기
 
 ```
 python3 main.py
 ```
 * 입력이미지
 
-![image.jpeg](https://raw.githubusercontent.com/jetsonworld/OpenCV_On_JetsonNano/master/11_Deep_Learning_in_OpenCV/images/image.jpeg)
+![image.jpeg](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/09_Deep_Learning_in_OpenCV/images/image.jpeg)
 
 * 출력이미지
 
-![main.png](https://raw.githubusercontent.com/jetsonworld/OpenCV_On_JetsonNano/master/11_Deep_Learning_in_OpenCV/main.png)
+![main.png](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/09_Deep_Learning_in_OpenCV/main.png)
