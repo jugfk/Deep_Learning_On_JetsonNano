@@ -2,8 +2,8 @@
 ***
 * 다운로드하기
 ```
-git clone https://github.com/jetsonworld/OpenCV_On_JetsonNano.git
-cd OpenCV_On_JetsonNano/11_Deep_Learning_in_OpenCV
+git clone https://github.com/jetsonworld/Deep_Learning_On_JetsonNano.git
+cd Deep_Learning_On_JetsonNano/09_Deep_Learning_in_OpenCV
 ```
 
 * 컴파일하기
