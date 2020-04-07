@@ -32,7 +32,7 @@ python3 test.py
 
 ![basicFaceDetector.png](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/11_GAN/pytorh_gan_mnist_143.png)
 
-## Software Requirements
+## 패키지 설치 
 
 * **python 3.6**
 * **PIL**
