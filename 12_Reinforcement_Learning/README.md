@@ -30,11 +30,10 @@ python3 test.py
   <i>Tetris demo</i>
 </p
 
-## 패키지 설치 요구사항
-
-* **python 3.6**
-* **PIL**
-* **cv2**
-* **pytorch** 
-* **numpy**
-* **matplotlib**
+* 패키지 설치 요구사항
+  * python 3.6
+  * PIL
+  * cv2
+  * pytorch 
+  * numpy
+  * matplotlib
