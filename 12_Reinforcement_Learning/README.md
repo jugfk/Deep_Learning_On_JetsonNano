@@ -30,7 +30,7 @@ python3 test.py
   <i>Tetris demo</i>
 </p
 
-## 패키지 설치 
+## 패키지 설치 요구사항
 
 * **python 3.6**
 * **PIL**
