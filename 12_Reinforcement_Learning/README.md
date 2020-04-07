@@ -30,16 +30,18 @@ python3 test.py
   <i>Tetris demo</i>
 </p
 
-* 패키지 설치 요구사항
+
+패키지 설치 요구사항
+
   * python 3.6
   * PIL
   * cv2
   * pytorch 
   * numpy
   * matplotlib
+  
 
-
-* 출처
+출처
 
 [Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch)
 
