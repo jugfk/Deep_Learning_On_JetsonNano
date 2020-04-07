@@ -23,3 +23,7 @@ python3 pytorch_gan_mnist.py
 python3 pytorch_gan_50_lines.py
 
 ```
+
+* 출력이미지
+
+![pytorch_gan_50_lines_output.png](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/11_GAN/pytorch_gan_50_lines_output.png)
