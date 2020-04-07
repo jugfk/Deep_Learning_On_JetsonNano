@@ -38,6 +38,7 @@ python3 test.py
   * numpy
   * matplotlib
 
+
 * 출처
 
 [Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch)
