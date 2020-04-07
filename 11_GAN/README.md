@@ -16,3 +16,10 @@ python3 pytorch_gan_mnist.py
 
 ![basicFaceDetector.png](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/11_GAN/pytorh_gan_mnist_143.png)
 
+(2) [pytorch_gan_50_lines.py](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/11_GAN/pytorch_gan_50_lines.py)
+
+* 실행하기
+```
+python3 pytorch_gan_50_lines.py
+
+```
