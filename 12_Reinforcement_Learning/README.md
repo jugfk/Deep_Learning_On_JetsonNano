@@ -31,6 +31,8 @@ python3 test.py
 </p
 
 
+![train.png](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/12_Reinforcement_Learning/train.png)
+
 패키지 설치 요구사항
 
   * python 3.6
