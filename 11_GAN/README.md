@@ -10,7 +10,19 @@ cd Deep_Learning_On_JetsonNano/11_GAN
 * 실행하기
 ```
 python3 pytorch_gan_mnist.py
-
+Epoch [0/200], Step [200/600], d_loss: 0.0409, g_loss: 4.0026, D(x): 0.99, D(G(z)): 0.03
+Epoch [0/200], Step [400/600], d_loss: 0.0692, g_loss: 6.5672, D(x): 0.97, D(G(z)): 0.04
+Epoch [0/200], Step [600/600], d_loss: 0.0449, g_loss: 4.7250, D(x): 0.99, D(G(z)): 0.03
+Epoch [1/200], Step [200/600], d_loss: 0.0976, g_loss: 6.7460, D(x): 0.98, D(G(z)): 0.07
+Epoch [1/200], Step [400/600], d_loss: 0.2162, g_loss: 4.1998, D(x): 0.91, D(G(z)): 0.05
+Epoch [1/200], Step [600/600], d_loss: 0.2246, g_loss: 4.9113, D(x): 0.94, D(G(z)): 0.13
+Epoch [2/200], Step [200/600], d_loss: 0.1410, g_loss: 4.1872, D(x): 0.94, D(G(z)): 0.04
+Epoch [2/200], Step [400/600], d_loss: 0.2344, g_loss: 3.9755, D(x): 0.98, D(G(z)): 0.17
+Epoch [2/200], Step [600/600], d_loss: 0.7069, g_loss: 3.3070, D(x): 0.84, D(G(z)): 0.24
+Epoch [3/200], Step [200/600], d_loss: 0.2238, g_loss: 2.8475, D(x): 0.94, D(G(z)): 0.11
+Epoch [3/200], Step [400/600], d_loss: 0.8142, g_loss: 2.7761, D(x): 0.77, D(G(z)): 0.22
+Epoch [3/200], Step [600/600], d_loss: 1.4608, g_loss: 2.4249, D(x): 0.57, D(G(z)): 0.21
+...
 ```
 * 출력이미지
 
