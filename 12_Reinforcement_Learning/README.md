@@ -40,5 +40,6 @@ python3 test.py
 
 * 출처
 
+[Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch)
 
 Thank you for your precious devotion.
