@@ -37,3 +37,8 @@ python3 test.py
   * pytorch 
   * numpy
   * matplotlib
+
+* 출처
+
+
+Thank you for your precious devotion.
