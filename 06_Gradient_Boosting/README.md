@@ -18,11 +18,12 @@ sudo pip3 install scikit-learn
 sudo pip3 install lightgbm
 ```
 
-(3) 젯슨 나노에서 xgboost, catboost 설치해보았으나 실패중
- 
+(3) xgboost 그래디언트 부스팅
+```
+
+```
+
  (설치하신분 있으시면 이매일 부탁드립니다. achasma@gmail.com)
-
-
 * 실행하기
 ```
 python3 00_Check_Versions.py
