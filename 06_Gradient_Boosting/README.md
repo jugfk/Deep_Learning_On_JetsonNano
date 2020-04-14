@@ -40,3 +40,8 @@ Prediction: -82.040
 ```
 
 ![LightGBM.png](https://raw.githubusercontent.com/jetsonworld/Deep_Learning_On_JetsonNano/master/06_Gradient_Boosting/LightGBM.png)
+
+* References:
+ * [Get Started with XGBoost](https://xgboost.readthedocs.io/en/latest/get_started.html)
+ * [How To Install cmake on Ubuntu](https://tttsss77.tistory.com/77)
+ * [Get the cmake Software](https://cmake.org/download/)
