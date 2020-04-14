@@ -24,12 +24,12 @@ git clone --recursive https://github.com/dmlc/xgboost
 cd xgboost
 mkdir build
 cmake ..
+make -j4
 ```
-cmake:
+만약에 cmake의 오래된 버젼으로 설치가 안된다면 아래 링크로 참조해서 설치합니다.
 https://tttsss77.tistory.com/77
 
 
- (설치하신분 있으시면 이매일 부탁드립니다. achasma@gmail.com)
 * 실행하기
 ```
 python3 00_Check_Versions.py
