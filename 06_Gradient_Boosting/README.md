@@ -20,8 +20,14 @@ sudo pip3 install lightgbm
 
 (3) xgboost 그래디언트 부스팅
 ```
-
+git clone --recursive https://github.com/dmlc/xgboost
+cd xgboost
+mkdir build
+cmake ..
 ```
+cmake:
+https://tttsss77.tistory.com/77
+
 
  (설치하신분 있으시면 이매일 부탁드립니다. achasma@gmail.com)
 * 실행하기
