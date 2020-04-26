@@ -3,7 +3,10 @@
 
 * 다운로드하기
 ```
-git clone https://github.com/jetsonworld/useTensorBoard.git
+cd 
+python3 download_gdrive.py 1_nYunyBfZ1sV6daJBtF-Mk42kxWV3pFU /home/ubuntu/Deep_Learning_On_JetsonNano/03_TensorBoard/data/MNIST/processed/training.pt
+python3 download_gdrive.py 1ARYE9_WBw0i80K2NNCXsleT5Q7e4nUiW /home/ubuntu/Deep_Learning_On_JetsonNano/03_TensorBoard/data/MNIST/raw/train-images-idx3-ubyte
+
 ```
 
 ### 터미널에서 텐서보드
