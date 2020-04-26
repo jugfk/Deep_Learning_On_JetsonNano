@@ -1,7 +1,7 @@
 # 젯슨 나노에서 텐서플로우의 텐서보드 사용하기
 ***
 
-* (1) tensorflow_tensorboard.py
+## (1) tensorflow_tensorboard.py
 ```
 cd 03_TensorBoard
 python3 tensorflow_tensorboard.py
@@ -74,7 +74,7 @@ show_graph(tf.get_default_graph())
 ![04_tensorboard_in_jupyter.png](https://raw.githubusercontent.com/jetsonworld/useTensorBoard/master/00_images/04_tensorboard_in_jupyter.png)
 
 
-(2) keras_tensorboard.py
+## (2) keras_tensorboard.py
 ```
 python3 keras_tensorboard.py 
 tensorboard --logdir=./logs/09_tensorboard
@@ -85,7 +85,7 @@ tensorboard --logdir=./logs/09_tensorboard
 localhost:6006
 ```
 
-(3) pytorch_tensorboard.py
+## (3) pytorch_tensorboard.py
 ```
 cd 03_TensorBoard
 python3 download_gdrive.py 1_nYunyBfZ1sV6daJBtF-Mk42kxWV3pFU /home/ubuntu/Deep_Learning_On_JetsonNano/03_TensorBoard/data/MNIST/processed/training.pt
